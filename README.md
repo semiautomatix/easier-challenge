@@ -1,3 +1,10 @@
+# Working example
+
+# Additional Notes
+- Based on https://rickandmortyapi.com/
+- In the interest of time, tests have been kept to a minimum and are more of an example than comprehensive
+- Also for time Static Type is somewhat broad, though not just `any`!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
