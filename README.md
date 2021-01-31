@@ -1,9 +1,14 @@
 # Working example
+http://semiautomatix-easier.s3-website-ap-southeast-2.amazonaws.com/
 
 # Additional Notes
-- Based on https://rickandmortyapi.com/
+- Based on https://rickandmortyapi.com/ - this is a read-only endpoint, so no mutation examples are available
 - In the interest of time, tests have been kept to a minimum and are more of an example than comprehensive
 - Also for time Static Type is somewhat broad, though not just `any`!
+- UI using Grommet (https://v2.grommet.io/)
+- State management via Apollo Client, any query previously executed will be cached
+- A random location will be presented, press the refresh button to receive another location (especially if one has no residents!)
+- You can paginate to the residents on any location, press the back arrow to return to location
 
 # Getting Started with Create React App
 
